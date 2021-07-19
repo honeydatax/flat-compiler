@@ -1,10 +1,12 @@
 # bitcode
-Bit code compiler llvm
+flat compiler 
+compile a assembly flat arm  can be used
+to education , to controlade flat environ
+arm
 
 Must install
-Sudo apt-get install llvm
-Sudo apt-get install clang
-Sudo apt-get install emscript
+Sudo apt-get install gcc
+sudo apt-get install bin-utils
 
-Mode of use "lli bitcode.bc hello.c"
-Or "./bitcode hello.c"
+
+
